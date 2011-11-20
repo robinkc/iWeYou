@@ -1,0 +1,16 @@
+{
+  "author": "Robin KC <arora.k.robin@gmail.com>",
+  "name": "iWeYou",
+  "description": "iWeYou is a view engine built over what the shell",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robinkc/iWeYou.git"
+  },
+  "main": "./iWeYou.js",
+  "engines": {
+    "node": "~0.5.4 || 0.5.4-pre || 0.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
